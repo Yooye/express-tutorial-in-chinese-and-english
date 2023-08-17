@@ -31,8 +31,8 @@
 # 2. Create An Express Application(搭建 Express 项目)
 
 > If you want to create a Nodejs server useing Express,you need to set up an Express project first.
-> 如果你想基于 Express 搭建一个 Nodejs 服务，你需要先初始化一个 Express 项目
 > Express provides a tool called “express-generator” which allows you to set up an Express Application quickly.
+> 如果你想基于 Express 搭建一个 Nodejs 服务，你需要先初始化一个 Express 项目。
 > Express 为我们提供了一个名为“express 生成器”的工具，我们可以使用这个工具快速搭建 Express 项目
 
 Next,Let's finger out how to use "express-generator"
