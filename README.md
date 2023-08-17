@@ -3,9 +3,9 @@
 > There are many different IT courses in this miniprograme,such as,IoT,AI,Big Data,Backend Development,Frontend Development,UI and more. Please scan it and enjoy yourself.
 > 在这个微信小程序中，有很多不同类型的 IT 课程，例如：物联网、人工智能、大数据、后端开发、前端开发、UI 设计等。请扫码尽情观看学习吧。
 
-![](D:\cn-en-course\express-project\qrcode.png)
+![免费IT学习平台](https://github.com/Yooye/express-tutorial-in-chinese-and-english/blob/main/qrcode.png)
 
-# Bilingual Express tutorial in English and Chinese(中英双语Express教程)
+# Bilingual Express tutorial in English and Chinese(中英双语 Express 教程)
 
 # 1. Introduction 介绍
 
@@ -28,7 +28,7 @@
 > You can create a Nodejs server by a few lines of code.
 > 你可以使用很少的代码，就能创建一个 Nodejs 服务
 
-# 2. Create An Express Application(搭建Express项目)
+# 2. Create An Express Application(搭建 Express 项目)
 
 > If you want to create a Nodejs server useing Express,you need to set up an Express project first.
 > 如果你想基于 Express 搭建一个 Nodejs 服务，你需要先初始化一个 Express 项目
